@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Jonny's Personal Site</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td> <img src="https://tse3.mm.bing.net/th?id=OIP.OSumsPEhdTzJl7DZl-nd2QHaFF&pid=Api&P=0&w=261&h=180" alt="Jonny's Profile Picture" /></td>
+      <td>
+        <p><em>Life Crusher and CEO of <stong><a href="https://www.appbrewery.co/">App Brewery</a></stong></em></p>
+        <p>I am an ios and Web developer and I love smoothies and banging skanks.</p>
+        <h1>Jonny Quest</h1>
+      </td>
+    </tr>
+  </table>
+
+
+
+  <hr size=3 noshade />
+  <h3> Books and Teaching</h3>
+  <ul>
+    <li>Kundalini Tantra</li>
+    <li>Positive Discipline</li>
+  </ul>
+  <hr>
+  <h3>Work Experience</h3>
+
+  <table cellspacing="10">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <td>2010-2013</td>
+      <td>Lead Developer at Tempo App</td>
+      </tr>
+      <tr>
+        <td>2010</td>
+        <td>Researcher at The Institute of Cognitive Neurosciences</td>
+      </tr>
+    </tbody>
+
+  </table>
+  <hr>
+  <h3>Skills</h3>
+
+  <table cellspacing="10">
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>iOS Development</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Web Development</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Photography</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+        </table>
+      
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>iOS Development</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Web Development</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Photography</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+        </table>
+
+      </td>
+    </tr>
+  </table>
+<hr >
+
+
+  < <a href="Hobbies.html">My Hobbies</a><br>
+    <a href="Contact.html">Contact Me</a>
+</body>
+
+</html>
